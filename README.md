@@ -1,7 +1,8 @@
 
 # Hi, I'm Riss! 👋
  
-👋 Hi! I'm Riss, a Fullstack Developer specializing in Back-End and Passionate about creating efficient, scalable solutions with clean code! 🚀✨
+👋 Hi! I'm Riss, a Fullstack Developer specializing in Back-End and Passionate 
+about creating efficient, scalable solutions with clean code! 🚀✨
 
 
 ## 🚀 About Riss
