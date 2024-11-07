@@ -33,7 +33,7 @@ I’m an active student in Software Engineering from SMK Negeri 4 Bandung, where
 
 
 ## 🔗 How to reach me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://risscodingporto.vercel.app)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://farisfebrian.vercel.app)
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/frsfr_)
 
