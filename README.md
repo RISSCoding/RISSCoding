@@ -9,16 +9,21 @@ I’m an active student in Software Engineering from SMK Negeri 4 Bandung, where
 
 
 ## 🛠 My Tools
-Languages & Frameworks: JavaScript, Node.js, Express.js
-
-Database: MySQL (using Prisma ORM)
-
-Front-End: GSAP for animations, Tailwind CSS for styling
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Prisma](https://skillicons.dev/icons?i=prisma)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Vite](https://skillicons.dev/icons?i=vite)
+![Vue](https://skillicons.dev/icons?i=vue)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![React](https://skillicons.dev/icons?i=react)
 
 
 ## Riss Facts
-
-🧠 I'm currently learning cyber security
+🧠 I'm currently interested on learning cyber security
 
 👯‍♀️ I'm looking to collaborate on projects that combine backend expertise with secure development practices
 
